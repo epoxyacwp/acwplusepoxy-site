@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Add the sitemap line after we connect your final domain.
+# Sitemap: https://YOURDOMAIN.com/sitemap.xml
