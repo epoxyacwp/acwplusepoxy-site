@@ -554,3 +554,17 @@ h3 {
   html { scroll-behavior: auto; }
   * { transition: none !important; }
 }
+
+.gallery-grid {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.gallery-grid img {
+  width: 31%;
+  border-radius: 12px;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
